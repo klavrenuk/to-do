@@ -11,5 +11,7 @@ import AppHeaderController from "@/components/header/AppHeaderController.vue";
 </template>
 
 <style lang="scss" scoped>
-
+.app_header {
+  background: #0066FF;
+}
 </style>

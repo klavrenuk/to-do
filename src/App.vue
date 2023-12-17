@@ -12,3 +12,7 @@ import AppHeader from "@/components/header/AppHeader.vue";
     </main>
   </div>
 </template>
+
+<style lang="scss">
+@import './assets/css/app.scss';
+</style>
