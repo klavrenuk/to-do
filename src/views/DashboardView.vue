@@ -1,13 +1,9 @@
 <script setup lang="ts">
-
+import CategoryView from "@/components/category/CategoryView.vue";
 </script>
 
 <template>
   <div class="dashboard">
-    <h1>Dashboard</h1>
+    <CategoryView />
   </div>
 </template>
-
-<style scoped>
-
-</style>
