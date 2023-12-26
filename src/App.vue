@@ -8,7 +8,9 @@ import AppHeader from "@/components/header/AppHeader.vue";
     <AppHeader />
 
     <main class="app_main" id="AppMain">
-      <router-view/>
+      <div class="container">
+        <router-view/>
+      </div>
     </main>
   </div>
 </template>
